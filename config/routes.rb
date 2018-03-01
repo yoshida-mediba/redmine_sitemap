@@ -1,1 +1,1 @@
-get 'sitemap.xml', :to => 'sitemap#xml'
+get 'sitemap', :to => 'sitemap#index'
