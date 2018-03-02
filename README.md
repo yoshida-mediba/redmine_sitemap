@@ -11,3 +11,17 @@ redmine root directory:
 ## Detail
 
 Role.non_member Redmine::Search contents
+
+## Bugs
+
+* Only the content page is supported. (exclude exp: /issues/)
+* Not compatible with &lt;lastmod&gt;.
+
+## You can find generated sitemap
+
+https://aretan.jp/sitemap.xml
+
+## compatible version
+
+* Redmine 3.3
+* Redmine 3.4
