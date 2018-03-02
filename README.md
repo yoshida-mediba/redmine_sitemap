@@ -25,3 +25,7 @@ https://aretan.jp/sitemap.xml
 
 * Redmine 3.3
 * Redmine 3.4
+
+## Support or Issue
+
+https://twitter.com/aretan
