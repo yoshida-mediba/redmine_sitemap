@@ -1,6 +1,5 @@
 class SitemapController < ApplicationController
   unloadable
-  caches_action :index
   
   def index
     ret = []
