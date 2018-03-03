@@ -4,9 +4,13 @@ The plugin adds sitemap.xml to the Redmine.
 
 ## Install
 
-redmine root directory:
+1. Your redmine root directory exec:
 
-    git clone git://github.com/yoshida-mediba/redmine_sitemap.git plugins/redmine_sitemap
+    > git clone git://github.com/yoshida-mediba/redmine_sitemap.git plugins/redmine_sitemap
+
+2. Reboot redmine
+
+3. Access sitemap.xml
 
 ## Detail
 
